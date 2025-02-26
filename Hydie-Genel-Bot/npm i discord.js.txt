@@ -1,0 +1,1 @@
+BOTU ÇALIÞTIRMAK IÇIN npm i discord.js YAZMANIZ ÞART YAPAMAZSANIZ discord.gg/vsc VEYA .gg/hydie GELEBILIRSINIZ.

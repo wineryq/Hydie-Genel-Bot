@@ -1,0 +1,17 @@
+{
+    "token":"TOKEN_GIRIN",
+    "log":"GENEL_LOG_GIRIN",
+    "sahip":"SAHIP_ID",
+    "giris-cikis":"GIRIS_CIKIS_LOG",
+    "desteksunucusu":"DESTEK_SUNUCUSU",
+    "bot-davet":"DAVET_LINK",
+    "bot-adi":"Hydie",
+    "bot-id":"BOT_ID",
+    "website":"WEB_SITE",
+    "durum":"BURASI_GEREKSIZ_STATUS_ICIN_READY.JS_GIDIN",
+    "prefix":"!",
+    "mesajXp": 1,
+    "sesXp":2,
+    "levelXp": 99
+}
+
