@@ -1,12 +1,14 @@
+OKUMANIZ GEREKEN YERLERI OKUDUKDAN SONRA SILIN
 
-BOTU BAÞLATMAK IÇIN CMD ACIP "npm i discord.js" YAZIN
 
-Sevgili dostlar bu bot "@wineryy" tarafýndan yapýlmýþtýr MIT tarafýndan lisans elde edilmiþtir herahngi bir yanlýþ yapmayýnýz. 
+BOTU BAÅžLATMAK IÃ‡IN CMD ACIP "npm i discord.js" YAZIN
+
+Sevgili dostlar bu bot "@wineryy" tarafÄ±ndan yapÄ±lmÄ±ÅŸtÄ±r MIT tarafÄ±ndan lisans elde edilmiÅŸtir herahngi bir yanlÄ±ÅŸ yapmayÄ±nÄ±z. 
 
 BOTU SATMAK YASAK BU UCRETSIZ ALTYAPIDIR
 
-BOTTA HERHANGI BIRÞEYE DOKUNMAYIN YAZILARI DEGISTIREBILIRSINIZ DOSYA SILMEYIN
+BOTTA HERHANGI BIRÅžEYE DOKUNMAYIN YAZILARI DEGISTIREBILIRSINIZ DOSYA SILMEYIN
 
 discord.gg/vsc sunucusu babapiromudur?
 
-BOT discord.gg/hydie SUNUCUSUNA AITTIR LINK GECERSIZ OLABILIR "@wineryy" isimli kiþi tarafýndan geliþtirilmiþtir.
+BOT discord.gg/hydie SUNUCUSUNA AITTIR LINK GECERSIZ OLABILIR "@wineryy" isimli kiÅŸi tarafÄ±ndan geliÅŸtirilmiÅŸtir.
